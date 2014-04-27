@@ -1,13 +1,13 @@
 PeerAssignment
-==============
 
-==================================================================
+
 ##AVERAGE HUMAN ACTIVITIES DATASET
-==================================================================
-Calculated using run_analysis.R script from the "Human Activity Recognition Using Smartphones Dataset"
-==================================================================
 
-Description of the run_analysis.R script:
+Calculated using run_analysis.R script from the "Human Activity Recognition Using Smartphones Dataset"
+
+
+
+##Description of the run_analysis.R script:
 
 
 * First part of the script downloads the dataset into your working directory, unzips it, and reads all the data, required for an analysis.
