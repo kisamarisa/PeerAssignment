@@ -1,7 +1,7 @@
-#AVERAGE HUMAN ACTIVITIES DATASET
+##AVERAGE HUMAN ACTIVITIES DATASET
 ==================================================================
-Calculated from the �Human Activity Recognition Using Smartphones  
-Dataset� Version 1.0
+Calculated from the Human Activity Recognition Using Smartphones  
+Dataset Version 1.0
 Non Linear Complex Systems Laboratory
 DITEN - Universita degli Studi di Genova.
 
@@ -19,21 +19,21 @@ constant rate of 50Hz.
 ##For each record it is provided:
 ======================================
 
-* �id� � identification number of experiment participants, passes  
+* "id" - identification number of experiment participants, passes  
 numeric values from 1 to 30.
 
-* �activity� � six activity names, performed in the experiment  
+* "activity" - six activity names, performed in the experiment  
 (takes string values : WALKING, WALKING_UPSTAIRS,  
 WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
-* �activity_code� - class labels of activity names (takes numeric  
+* "activity_code" - class labels of activity names (takes numeric  
 values from 1 to:6):
 1           WALKING
 2   WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
 4            SITTING
 5           STANDING
-6	      LAYING
+6	           LAYING
 
 * average features for each activity and each experiment  
 participant  (66 variables). For these averages calculation mean  
