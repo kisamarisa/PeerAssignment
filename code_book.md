@@ -1,11 +1,10 @@
-AVERAGE HUMAN ACTIVITIES DATASET
+#AVERAGE HUMAN ACTIVITIES DATASET
 ==================================================================
-Calculated from the “Human Activity Recognition Using Smartphones  
-Dataset” Version 1.0
+Calculated from the ï¿½Human Activity Recognition Using Smartphones  
+Datasetï¿½ Version 1.0
 Non Linear Complex Systems Laboratory
 DITEN - Universita degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
 ==================================================================
 
 The experiments have been carried out with a group of 30 volunteers  
@@ -16,17 +15,17 @@ waist. Using its embedded accelerometer and gyroscope, we captured
 3-axial linear acceleration and 3-axial angular velocity at a  
 constant rate of 50Hz. 
 
-For each record it is provided:
+##For each record it is provided:
 ======================================
 
-- “id” – identification number of experiment participants, passes  
+* ï¿½idï¿½ ï¿½ identification number of experiment participants, passes  
 numeric values from 1 to 30.
 
-- “activity” – six activity names, performed in the experiment  
+* ï¿½activityï¿½ ï¿½ six activity names, performed in the experiment  
 (takes string values : WALKING, WALKING_UPSTAIRS,  
 WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
-- “activity_code” - class labels of activity names (takes numeric  
+* ï¿½activity_codeï¿½ - class labels of activity names (takes numeric  
 values from 1 to:6):
 1           WALKING
 2   WALKING_UPSTAIRS
@@ -35,7 +34,7 @@ values from 1 to:6):
 5           STANDING
 6	      LAYING
 
-- average features for each activity and each experiment  
+* average features for each activity and each experiment  
 participant  (66 variables). For these averages calculation mean  
 values and standard deviations of listed below features were  
 employed:
@@ -61,5 +60,5 @@ fBodyGyroJerkMag
 A full description of these variables is available at the site  
 where the data was obtained:
 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 sing+Smartphones
