@@ -4,7 +4,8 @@ Calculated from the �Human Activity Recognition Using Smartphones
 Dataset� Version 1.0
 Non Linear Complex Systems Laboratory
 DITEN - Universita degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
+
+
 ==================================================================
 
 The experiments have been carried out with a group of 30 volunteers  
