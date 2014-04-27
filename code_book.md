@@ -28,12 +28,12 @@ WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 * "activity_code" - class labels of activity names (takes numeric  
 values from 1 to:6):
-1           WALKING
-2   WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4            SITTING
-5           STANDING
-6	           LAYING
+1 -          WALKING,
+2 -  WALKING_UPSTAIRS,
+3 - WALKING_DOWNSTAIRS,
+4 -           SITTING,
+5 -          STANDING,
+6	-           LAYING.
 
 * average features for each activity and each experiment  
 participant  (66 variables). For these averages calculation mean  
@@ -41,8 +41,11 @@ values and standard deviations of listed below features were
 employed:
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
 tBodyAccMag
